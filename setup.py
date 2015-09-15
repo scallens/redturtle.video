@@ -11,7 +11,7 @@ install_requires = ['setuptools',
                     'hachoir_core',
                     'hachoir_metadata',
                     'hachoir_parser',
-                    'collective.flowplayer=4.1',
+                    'collective.flowplayer=4.2',
                     'plone.app.imaging>=1.0b9',
                     ]
 
